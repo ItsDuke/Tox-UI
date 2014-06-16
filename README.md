@@ -5,7 +5,7 @@ Full of delicious Tox UI guidelines and interface elements.
 
 ## Current Working Version
 
-<img src="https://raw.githubusercontent.com/ItsDuke/Tox-UI/master/current.jpg"></img>
+<img src="https://raw.githubusercontent.com/ItsDuke/Tox-UI/master/current.png"></img>
 
 ## Contact
 
