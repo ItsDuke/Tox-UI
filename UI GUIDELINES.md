@@ -71,6 +71,8 @@ File Transfer In-Progress Box Text: Regular, 10px, medium grey
 
 File Transfer Finished Box Text: Regular, 10px, white
 
-Timestamps: Regular, 10px, medium grey
+User Timestamps: Light, 10px, medium grey
+
+Contact Timestamps: Light, 10px, black 
 
 Chat Input Box Tooltip Text: Regular, 11px, light grey
