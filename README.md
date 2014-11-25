@@ -13,4 +13,4 @@ Feel free to bother me at <mailto: "anondelivers.org@gmail.com">anondelivers.org
 
 ## License
 
-Tox UI for Tox is licensed under Creative Commons as CC BY-NC.
+Tox UI for Tox is licensed under Creative Commons as CC BY-SA 4.0.
